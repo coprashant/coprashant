@@ -2,7 +2,7 @@
 
 # Hey, I'm Prasant Bhattarai 👋
 
-**A passionate computer engineer from Nepal 🇳🇵 who loves learning new things and turning ideas into real, usable product.**
+**A passionate Computer Engineering student from Nepal 🇳🇵 dedicated to building scalable web applications and interactive experiences.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prashant-bhattarai-624a1a328/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-64108e?style=flat-square&logo=vercel&logoColor=white)](https://prasant-bhattarai.com.np)
@@ -14,31 +14,35 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Currently learning and growing as an engineer
-- 🌱 Focused on **Java**, **JavaScript**, and **Python**
-- 💡 I enjoy turning ideas into real, usable products
-- 🤝 Open to **freelance work** and **collaborations**
-- 📍 Based in Nepal
+- 🎓 **Education:** Computer Engineering student at IOE, Thapathali Campus.
+- 💡 **Passion:** Turning complex logic into user-friendly, real-world products.
+- 🤝 **Collaboration:** Open to freelance opportunities and open-source contributions.
+- 📍 **Location:** Kathmandu, Nepal.
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=coprashant"/>
+### 🛠️ Tech Stack & Skills
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** |  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Web Tech** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Game Dev** | ![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![LibGDX](https://img.shields.io/badge/libGDX-EA4335?style=flat-square&logo=libgdx&logoColor=white)
+| **Design/UI** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) |
 
 ---
 
-### 🛠️ Skills
+### 📊 GitHub Insights
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white)
+<div align="center">
 
----
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coprashant&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=coprashant&layout=donut&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=coprashant&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coprashant&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -46,8 +50,10 @@
 
 <div align="center">
 
-📬 **bhattaraiprashant010@gmail.com** &nbsp;·&nbsp; 📞 **+977 9768405675**
+### 📬 Get in Touch
 
-*Thanks for stopping by — feel free to explore my work or reach out!*
+📧 **bhattaraiprashant010@gmail.com** &nbsp;·&nbsp; 📞 **+977 9768405675**
+
+*Thanks for stopping by — feel free to explore my repositories or reach out for a chat!*
 
 </div>
