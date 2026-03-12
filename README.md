@@ -35,15 +35,22 @@
 ### 📊 GitHub Insights
 
 <div align="center">
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coprashant&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=coprashant&layout=donut&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=coprashant&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coprashant&theme=tokyo-night&hide_border=true)
-
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coprashant&theme=tokyonight" width="100%" />
+</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=coprashant&layout=donut&theme=tokyonight" alt="Top Languages" height="200px" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=coprashant&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200px" />
+    </td>
+  </tr>
+</table>
+<p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coprashant&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
 </div>
 
 ---
