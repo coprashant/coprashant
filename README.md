@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Currently learning and growing as a developer
+- 🎓 Currently learning and growing as an engineer
 - 🌱 Focused on **Java**, **JavaScript**, and **Python**
 - 💡 I enjoy turning ideas into real, usable products
 - 🤝 Open to **freelance work** and **collaborations**
