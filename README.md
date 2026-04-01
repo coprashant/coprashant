@@ -14,10 +14,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **Education:** Computer Engineering student at IOE, Thapathali Campus.
-- 💡 **Passion:** Turning complex logic into user-friendly, real-world products.
-- 🤝 **Collaboration:** Open to freelance opportunities and open-source contributions.
-- 📍 **Location:** Kathmandu, Nepal.
+-  **Education:** Computer Engineering student at IOE, Thapathali Campus.
+-  **Passion:** Turning complex logic into user-friendly, real-world products.
+-  **Collaboration:** Open to freelance opportunities and open-source contributions.
+-  **Based On:** Bhadrapur, Nepal.
 
 ---
 
